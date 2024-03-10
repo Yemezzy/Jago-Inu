@@ -2,6 +2,7 @@ import './App.css';
 import AboutUs from './Pages/AboutUs';
 import Firstpage from './Pages/FIrstpage';
 import Rewards from './Pages/Rewards';
+import Tokenomics from './Pages/Tokenomics';
 
 
 function App() {
@@ -9,7 +10,8 @@ function App() {
     <div className="bg-[#142028]">
       <Firstpage />
       <AboutUs />
-      <Rewards/>
+      <Rewards />
+      <Tokenomics/>
     </div>
   );
 }
