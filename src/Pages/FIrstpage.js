@@ -9,7 +9,7 @@ export const FIrstpage = () => {
     <div className="">
       <div className="pb-3 md:px-3 h-[80%] first-page border-white border-b-4">
         <div className="flex md:hidden h-[130px] shoi  p-5">
-          <section className="md:ml-20 lg:mt-[20] mt-[12%] md:mt-[10%] vvs rounded-full w-[110px] h-[110px] text-center bg-[#142028] border-8 border-white">
+          <section className="md:ml-20 sm:mt-[20] mt-[12%] md:mt-[10%] vvs rounded-full w-[110px] h-[110px] text-center bg-[#142028] border-8 border-white">
             <p className="pt-[70%] text-white text-xs font-bold">JAGO INU</p>
           </section>
         </div>
