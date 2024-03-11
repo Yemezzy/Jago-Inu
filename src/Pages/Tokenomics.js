@@ -1,4 +1,6 @@
 import React from 'react'
+import Aos from "aos";
+import "aos/dist/aos.css";
 
 const Tokenomics = () => {
   return (
@@ -10,7 +12,7 @@ const Tokenomics = () => {
         </p>
 
         <div className="md:flex">
-          <section className="md:w-[50%] text-2xl p-5">
+          <section className="md:w-[50%] md:p-5">
             <div className="flex gap-2 md:text-3xl">
               <p>Name:</p>
               <p className="font-bold">JAGO INU</p>
